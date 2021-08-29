@@ -10,6 +10,8 @@
   </ol>
 <ul>
   <li>Extratct</li>
-  <p> First step in this pipline is to extract data from the spotify account
+  <p> First step in this pipline is to extract data from the spotify account With the help spotify API   
   </p>
+  <li>Transform</li>
+  <p> Next step is to find any empty or null values in the data and transform it to be readable data </p>
   </ul>
