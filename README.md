@@ -10,10 +10,10 @@
   </ol>
 <ul>
   <li>Extratct</li>
-  <p> First step in this pipline is to extract data from the spotify account With the help spotify API.   
+  <p> First step in this pipline is to extract data from the spotify account With the help spotify APIs.   
   </p>
   <li>Transform</li>
   <p> Next step is to find any empty or null values in the data and transform it to be readable data. </p>
   <li> Load </li>
-  <p>Next up is the load where loading of data getting from apotify api to the database it can be RDBMS or NoSQL here I used MongoDB database which is one of the NoSQL database. </p>
+  <p>Next up is the load where loading of data getting from spotify APIs to the database it can be RDBMS or NoSQL here I used MongoDB database which is one of the NoSQL database. </p>
   </ul>
