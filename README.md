@@ -15,7 +15,7 @@
   <li>Transform</li>
   <p> Next step is to find any empty or null values in the data and transform it to be readable data. </p>
   <li> Load </li>
-  <p>Next up is the load where loading of data getting from spotify APIs to the database it can be RDBMS or NoSQL here I used MongoDB database which is one of the NoSQL database. </p>
+  <p>Next up is the load where loading of data getting from spotify APIs to the databases, it can be RDBMS or NoSQL here I used MongoDB database which is one of the NoSQL database. </p>
   </ul>
   
   <p>In the end I want to conclude that this was my first data engineering project which was simple ETL project I will try to make more awsome projects in the future </p>
