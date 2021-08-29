@@ -8,4 +8,8 @@
   <li>  Transform </li>
   <li>  Load </li>
   </ol>
-
+<ul>
+  <li>Extratct</li>
+  <p> First step in this pipline is to extract data from the spotify account
+  </p>
+  </ul>
